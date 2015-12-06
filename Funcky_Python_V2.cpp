@@ -120,7 +120,7 @@ void show_animate(void){		//顯示動畫
 }
 
 void snake_initial(void){		//初始化蛇的物件
-	int default_length=30;
+	int default_length=5;
 	//printf("%s","Please input the snake length: ");
 	//scanf("%d",&default_length);		客製化輸入蛇得出長度
 	run_snake.score=0;		//初始分數
